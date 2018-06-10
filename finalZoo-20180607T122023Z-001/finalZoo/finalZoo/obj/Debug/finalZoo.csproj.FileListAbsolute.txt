@@ -1,0 +1,27 @@
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\bin\Debug\finalZoo.exe.config
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\bin\Debug\finalZoo.exe
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\bin\Debug\finalZoo.pdb
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.csprojResolveAssemblyReference.cache
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.Inicio.resources
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.Properties.Resources.resources
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.RegistroAnimales.resources
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.csproj.GenerateResource.Cache
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.exe
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.pdb
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.AnimalesEnfermeria.resources
+F:\U de A\Software II\NEGRO\Zoologico\finalZoo\finalZoo\obj\Debug\finalZoo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\finalZoo.exe.config
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\finalZoo.exe
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\finalZoo.pdb
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.AnimalesEnfermeria.resources
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.Inicio.resources
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.RegistroAnimales.resources
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.exe
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\obj\Debug\finalZoo.pdb
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\EntityFramework.dll
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\EntityFramework.xml
+C:\Users\Estudiante\Downloads\finalZoo-20180607T122023Z-001\finalZoo\finalZoo\bin\Debug\EntityFramework.SqlServer.xml
